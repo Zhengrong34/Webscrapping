@@ -7,7 +7,7 @@
    "outputs": [],
    "source": [
     "\n",
-    "webdriver_path = r\"C:\\Users\\Zheng_\\Desktop\\chrome-driver\\chromedriver.exe\"\n",
+    "webdriver_path = ## path to driver.exe
     "limit = 500"
    ]
   },
